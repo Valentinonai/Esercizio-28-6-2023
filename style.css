@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+}
+header {
+  text-align: center;
+}
+header img {
+  width: 15%;
+}
+nav {
+  background-color: rgba(238, 220, 115, 0.153);
+  height: 40px;
+  text-align: center;
+  border-top: 1px solid rgba(255, 183, 0, 0.753);
+}
+nav p {
+  margin: 0;
+  font-size: 11px;
+  position: relative;
+  top: 13px;
+  color: rgb(35, 36, 50);
+}
+nav p span {
+  font-weight: 600;
+}
+main {
+  width: 50vw;
+  margin: 0 auto;
+}
+iframe {
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px grey;
+}
+h1 {
+  font-size: 2.2em;
+}
+
+.video {
+  margin: 0;
+  text-align: center;
+}
+
+.didascalia {
+  text-align: center;
+  font-size: 11px;
+  color: rgb(107, 113, 107);
+}
+
+.featured {
+  border-left: 1px solid rgb(190, 190, 5);
+  font-weight: lighter;
+  padding: 10px;
+  color: red;
+}
+
+a {
+  color: rgb(16, 58, 83);
+}
+
+.ingredients h2,
+.method h2 {
+  margin-top: 40px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid lightblue;
+  font-weight: 200;
+}
+li {
+  margin: 15px auto;
+}
+
+.method ol li span {
+  font-weight: 900;
+}
